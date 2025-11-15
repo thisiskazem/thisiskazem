@@ -25,8 +25,6 @@ Cloud & Networking master's student at Politecnico di Torino, focused on **cloud
 - 🖥️ [edge-infrastructure-ansible](https://github.com/thisiskazem/edge-infrastructure-ansible) – Ansible setup for edge testbeds  
 - 🧪 [guac-demo](https://github.com/thisiskazem/guac-demo) – Demo to run a KubeVirt VM using Apache Guacamole  
 
-*(You can pin these repos on your profile: Profile → “Customize your pins”.)*
-
 ---
 
 ### Where to find me
