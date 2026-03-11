@@ -21,7 +21,7 @@ Cloud & Networking master's student at Politecnico di Torino, focused on **cloud
 
 ### A few highlighted projects
 
-- 🔧 [liqo-upgrade-controller](https://github.com/thisiskazem/liqo-upgrade-controller) – Controller for seamless Liqo multi-cluster upgrades  
+- 🔧 [liqo-upgrade-operator](https://github.com/thisiskazem/liqo-upgrade-operator) – Controller for seamless Liqo multi-cluster upgrades  
 - 🖥️ [edge-infrastructure-ansible](https://github.com/thisiskazem/edge-infrastructure-ansible) – Ansible setup for edge testbeds  
 - 🧪 [guac-demo](https://github.com/thisiskazem/guac-demo) – Demo to run a KubeVirt VM using Apache Guacamole  
 
