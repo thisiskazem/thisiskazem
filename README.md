@@ -7,24 +7,6 @@ I design, automate, and scale Kubernetes-based infrastructure — combining a st
 
 ---
 
-### What I'm working on now
-
-- 🔬 **Research Fellow @ PoliTo** — building [federation-autoscaler](https://github.com/netgroup-polito/federation-autoscaler), a Kubernetes Cluster Autoscaler extension that dynamically borrows compute capacity across multi-cluster federated environments via Liqo
-- 🏗️ Designing infrastructure architecture for **FiberCop** telco edge network
-- 📦 Contributing to **Liqo** open-source documentation (CNCF ecosystem)
-- 🛠️ Building a DevOps portfolio — Terraform, GitOps, observability, and automation repos
-
----
-
-### Core stack
-
-`Kubernetes` `Terraform` `Ansible` `Docker` `Helm` `ArgoCD` `GitHub Actions`  
-`Prometheus` `Grafana` `Linux` `Bash` `Go` `AWS` `Liqo`
-
-**Certifications:** CKA · CKAD · KCNA · Terraform Associate · AWS Cloud Practitioner · LPIC-1 · MTCWE · MTCNA · Network+
-
----
-
 ### Highlighted projects
 
 - 🤖 [federation-autoscaler](https://github.com/netgroup-polito/federation-autoscaler) — Kubernetes autoscaler extension for multi-cluster federated environments (Go · kubebuilder · gRPC · Liqo)
