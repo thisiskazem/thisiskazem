@@ -1,33 +1,39 @@
 # Hi, I'm Kazem 👋
 
-Cloud & Networking master's student at Politecnico di Torino, focused on **cloud-native, Kubernetes, and edge computing**.
+**Cloud, DevOps & Platform Engineer** based in Turin, Italy.  
+M.Sc. Computer Engineering — Politecnico di Torino.
+
+I design, automate, and scale Kubernetes-based infrastructure — combining a strong networking foundation with modern cloud-native tooling. Most cloud engineers are weak on networking. I work fluently across both.
 
 ---
 
-### What I'm doing now
+### What I'm working on now
 
-- 🎓 MSc in Computer Engineering (Cloud & Networking) @ Politecnico di Torino  
-- 🧪 Thesis: seamless upgrades for **Liqo** multi-cluster environments  
-- 🧑‍🏫 Teaching assistant for networking / cloud courses (labs & student support)  
-- ☁️ Working with Kubernetes, K3s, multi-cluster, observability and automation
-
----
-
-### Tech I like to use
-
-`Kubernetes` · `K3s` · `Liqo` · `Docker` · `Go` · `Ansible` · `Linux` · `Git` · `AWS`  
+- 🔬 **Research Fellow @ PoliTo** — building [federation-autoscaler](https://github.com/netgroup-polito/federation-autoscaler), a Kubernetes Cluster Autoscaler extension that dynamically borrows compute capacity across multi-cluster federated environments via Liqo
+- 🏗️ Designing infrastructure architecture for **FiberCop** telco edge network
+- 📦 Contributing to **Liqo** open-source documentation (CNCF ecosystem)
+- 🛠️ Building a DevOps portfolio — Terraform, GitOps, observability, and automation repos
 
 ---
 
-### A few highlighted projects
+### Core stack
 
-- 🔧 [liqo-upgrade-operator](https://github.com/thisiskazem/liqo-upgrade-operator) – Controller for seamless Liqo multi-cluster upgrades  
-- 🖥️ [edge-infrastructure-ansible](https://github.com/thisiskazem/edge-infrastructure-ansible) – Ansible setup for edge testbeds  
-- 🧪 [guac-demo](https://github.com/thisiskazem/guac-demo) – Demo to run a KubeVirt VM using Apache Guacamole  
+`Kubernetes` `Terraform` `Ansible` `Docker` `Helm` `ArgoCD` `GitHub Actions`  
+`Prometheus` `Grafana` `Linux` `Bash` `Go` `AWS` `Liqo`
+
+**Certifications:** CKA · CKAD · KCNA · Terraform Associate · AWS Cloud Practitioner · LPIC-1 · MTCWE · MTCNA · Network+
+
+---
+
+### Highlighted projects
+
+- 🤖 [federation-autoscaler](https://github.com/netgroup-polito/federation-autoscaler) — Kubernetes autoscaler extension for multi-cluster federated environments (Go · kubebuilder · gRPC · Liqo)
+- 🔧 [liqo-upgrade-operator](https://github.com/thisiskazem/liqo-upgrade-operator) — Kubernetes controller for seamless Liqo multi-cluster upgrades
+- 🖥️ [edge-infrastructure-ansible](https://github.com/thisiskazem/edge-infrastructure-ansible) — Ansible automation for edge computing testbeds
 
 ---
 
 ### Where to find me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kazembigdeli/)
-- 📧 Reach me via the email listed on my GitHub / LinkedIn
+- 📧 kazem26@gmail.com
