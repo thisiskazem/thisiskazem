@@ -20,6 +20,7 @@ I design, automate, and scale Kubernetes-based infrastructure — combining a st
 > Production-inspired repos demonstrating my core DevOps & Cloud stack
 
 - ☁️ [terraform-aws-infrastructure](https://github.com/thisiskazem/terraform-aws-infrastructure) — Production-grade AWS infrastructure with Terraform — VPC, EKS, IAM, RDS, ALB, auto-scaling across staging and production environments
+- 🔄 [gitops-argocd-pipeline](https://github.com/thisiskazem/gitops-argocd-pipeline) — Full GitOps workflow with GitHub Actions CI and ArgoCD CD across staging and production environments using Helm
 
 ---
 
