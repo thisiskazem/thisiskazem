@@ -15,6 +15,14 @@ I design, automate, and scale Kubernetes-based infrastructure — combining a st
 
 ---
 
+### Portfolio
+
+> Production-inspired repos demonstrating my core DevOps & Cloud stack
+
+- ☁️ [terraform-aws-infrastructure](https://github.com/thisiskazem/terraform-aws-infrastructure) — Production-grade AWS infrastructure with Terraform — VPC, EKS, IAM, RDS, ALB, auto-scaling across staging and production environments
+
+---
+
 ### Where to find me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kazembigdeli/)
