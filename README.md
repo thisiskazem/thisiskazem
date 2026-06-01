@@ -23,6 +23,8 @@ I design, automate, and scale Kubernetes-based infrastructure — combining a st
 - 🔄 [gitops-argocd-pipeline](https://github.com/thisiskazem/gitops-argocd-pipeline) — Full GitOps workflow with GitHub Actions CI and ArgoCD CD across staging and production environments using Helm
 - 📊 [kubernetes-observability-stack](https://github.com/thisiskazem/kubernetes-observability-stack) — Full Kubernetes observability with Prometheus & Grafana — multi-burn-rate SLO alerts, custom dashboards, and ServiceMonitors across staging and production environments
 - 🐧 [ansible-cloud-automation](https://github.com/thisiskazem/ansible-cloud-automation) — Ansible automation for a Linux fleet — provisioning, CIS-style hardening, and day-2 configuration of bastion, CI runner, backup, and database hosts across staging and production environments
+- ⚓ [k8s-infrastructure-manifests](https://github.com/thisiskazem/k8s-infrastructure-manifests) — Kubernetes cluster baseline with Kustomize — multi-tenant namespaces, RBAC, NetworkPolicies, resource quotas, and Pod Security Standards across staging and production overlays
+
 
 ---
 
