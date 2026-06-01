@@ -21,6 +21,7 @@ I design, automate, and scale Kubernetes-based infrastructure — combining a st
 
 - ☁️ [terraform-aws-infrastructure](https://github.com/thisiskazem/terraform-aws-infrastructure) — Production-grade AWS infrastructure with Terraform — VPC, EKS, IAM, RDS, ALB, auto-scaling across staging and production environments
 - 🔄 [gitops-argocd-pipeline](https://github.com/thisiskazem/gitops-argocd-pipeline) — Full GitOps workflow with GitHub Actions CI and ArgoCD CD across staging and production environments using Helm
+- 📊 [kubernetes-observability-stack](https://github.com/thisiskazem/kubernetes-observability-stack) — Full Kubernetes observability with Prometheus & Grafana — multi-burn-rate SLO alerts, custom dashboards, and ServiceMonitors across staging and production environments
 
 ---
 
