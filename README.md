@@ -24,6 +24,8 @@ I design, automate, and scale Kubernetes-based infrastructure — combining a st
 - 📊 [kubernetes-observability-stack](https://github.com/thisiskazem/kubernetes-observability-stack) — Full Kubernetes observability with Prometheus & Grafana — multi-burn-rate SLO alerts, custom dashboards, and ServiceMonitors across staging and production environments
 - 🐧 [ansible-cloud-automation](https://github.com/thisiskazem/ansible-cloud-automation) — Ansible automation for a Linux fleet — provisioning, CIS-style hardening, and day-2 configuration of bastion, CI runner, backup, and database hosts across staging and production environments
 - ⚓ [k8s-infrastructure-manifests](https://github.com/thisiskazem/k8s-infrastructure-manifests) — Kubernetes cluster baseline with Kustomize — multi-tenant namespaces, RBAC, NetworkPolicies, resource quotas, and Pod Security Standards across staging and production overlays
+- ⎈ [helm-charts](https://github.com/thisiskazem/helm-charts) — Reusable Helm chart library — a secure-by-default `kb-common` library chart with web-service, worker, and cronjob pattern charts,
+  schema-validated values, unit tests, and an OCI release pipeline
 
 
 ---
