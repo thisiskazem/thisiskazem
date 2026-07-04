@@ -26,6 +26,7 @@ I design, automate, and scale Kubernetes-based infrastructure — combining a st
 - ⚓ [k8s-infrastructure-manifests](https://github.com/thisiskazem/k8s-infrastructure-manifests) — Kubernetes cluster baseline with Kustomize — multi-tenant namespaces, RBAC, NetworkPolicies, resource quotas, and Pod Security Standards across staging and production overlays
 - ⎈ [helm-charts](https://github.com/thisiskazem/helm-charts) — Reusable Helm chart library — a secure-by-default `kb-common` library chart with web-service, worker, and cronjob pattern charts, schema-validated values, unit tests, and an OCI release pipeline
 - 🐚 [bash-automation-scripts](https://github.com/thisiskazem/bash-automation-scripts) — Production Bash automation toolkit — strict-mode backup, log-rotation, health-check, cert-expiry, S3 sync, and host-bootstrap scripts with a shared library, bats tests, and shellcheck/shfmt CI
+- 🐹 [go-devops-tools](https://github.com/thisiskazem/go-devops-tools) — Kubernetes operations CLI in Go — `kbctl` audits clusters for best-practice violations, reports resource usage, inventories images, and finds orphaned objects, built on cobra + client-go with a fully unit-tested, cluster-free core
 
 
 
