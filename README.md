@@ -1,34 +1,44 @@
 # Hi, I'm Kazem 👋
 
-**Cloud, DevOps & Platform Engineer** based in Turin, Italy.  
-M.Sc. Computer Engineering — Politecnico di Torino.
+**Cloud, DevOps & Platform Engineer** based in Turin, Italy.
+M.Sc. Computer Engineering, Politecnico di Torino.
 
-I design, automate, and scale Kubernetes-based infrastructure — combining a strong networking foundation with modern cloud-native tooling. Most cloud engineers are weak on networking. I work fluently across both.
-
----
-
-### Highlighted projects
-
-- 🤖 [federation-autoscaler](https://github.com/netgroup-polito/federation-autoscaler) — Kubernetes autoscaler extension for multi-cluster federated environments (Go · kubebuilder · gRPC · Liqo)
-- 🔧 [liqo-upgrade-operator](https://github.com/thisiskazem/liqo-upgrade-operator) — Kubernetes controller for seamless Liqo multi-cluster upgrades
-- 🖥️ [edge-infrastructure-ansible](https://github.com/thisiskazem/edge-infrastructure-ansible) — Ansible automation for edge computing testbeds
+I design, automate, and scale Kubernetes-based infrastructure, combining a
+strong networking foundation with modern cloud-native tooling. Most cloud
+engineers are weak on networking. I work fluently across both.
 
 ---
 
 ### Portfolio
 
-> Production-inspired repos demonstrating my core DevOps & Cloud stack
+> Three repos, one story: a small European logistics company shipping a service
+> to Kubernetes. Each is a complete real-world scenario you can run on a laptop
+> in about five minutes, no cloud account required.
 
-- ☁️ [terraform-aws-infrastructure](https://github.com/thisiskazem/terraform-aws-infrastructure) — Production-grade AWS infrastructure with Terraform — VPC, EKS, IAM, RDS, ALB, auto-scaling across staging and production environments
-- 🔄 [gitops-argocd-pipeline](https://github.com/thisiskazem/gitops-argocd-pipeline) — Full GitOps workflow with GitHub Actions CI and ArgoCD CD across staging and production environments using Helm
-- 📊 [kubernetes-observability-stack](https://github.com/thisiskazem/kubernetes-observability-stack) — Full Kubernetes observability with Prometheus & Grafana — multi-burn-rate SLO alerts, custom dashboards, and ServiceMonitors across staging and production environments
-- 🐧 [ansible-cloud-automation](https://github.com/thisiskazem/ansible-cloud-automation) — Ansible automation for a Linux fleet — provisioning, CIS-style hardening, and day-2 configuration of bastion, CI runner, backup, and database hosts across staging and production environments
-- ⚓ [k8s-infrastructure-manifests](https://github.com/thisiskazem/k8s-infrastructure-manifests) — Kubernetes cluster baseline with Kustomize — multi-tenant namespaces, RBAC, NetworkPolicies, resource quotas, and Pod Security Standards across staging and production overlays
-- ⎈ [helm-charts](https://github.com/thisiskazem/helm-charts) — Reusable Helm chart library — a secure-by-default `kb-common` library chart with web-service, worker, and cronjob pattern charts, schema-validated values, unit tests, and an OCI release pipeline
-- 🐚 [bash-automation-scripts](https://github.com/thisiskazem/bash-automation-scripts) — Production Bash automation toolkit — strict-mode backup, log-rotation, health-check, cert-expiry, S3 sync, and host-bootstrap scripts with a shared library, bats tests, and shellcheck/shfmt CI
-- 🐹 [go-devops-tools](https://github.com/thisiskazem/go-devops-tools) — Kubernetes operations CLI in Go — `kbctl` audits clusters for best-practice violations, reports resource usage, inventories images, and finds orphaned objects, built on cobra + client-go with a fully unit-tested, cluster-free core
+- ⎈ **[gitops-k8s-platform](https://github.com/thisiskazem/gitops-k8s-platform)**: A commit becomes a running, monitored deployment. Go service → Docker → Helm → Argo CD → Prometheus, with multi-window SLO alerting. `make demo` brings the whole thing up on kind.
+- ☁️ **[aws-landing-zone](https://github.com/thisiskazem/aws-landing-zone)**: The AWS account underneath it. VPC, EKS, IRSA, remote state, and a Terraform pipeline that authenticates with OIDC and stores no AWS credentials at all.
+- 🐧 **[linux-fleet-automation](https://github.com/thisiskazem/linux-fleet-automation)**: Ansible roles for the Linux hosts around the cluster, plus a Bash auditor that verifies the hardening independently of the tool that applied it. Molecule proves idempotence.
 
+### Multi-cluster & research work
 
+Where I spend most of my time: scheduling workloads across many small clusters.
+
+- 🤖 [federation-autoscaler](https://github.com/netgroup-polito/federation-autoscaler): Kubernetes autoscaler extension for multi-cluster federated environments (Go · kubebuilder · gRPC · Liqo)
+- 🔧 [liqo-upgrade-operator](https://github.com/thisiskazem/liqo-upgrade-operator): Kubernetes controller for seamless Liqo multi-cluster upgrades
+- 🖥️ [edge-infrastructure-ansible](https://github.com/thisiskazem/edge-infrastructure-ansible): Ansible automation for edge computing testbeds
+
+Currently a Research Fellow at Politecnico di Torino, working on AI workloads
+on telco edge infrastructure.
+
+---
+
+### Stack
+
+`Linux` `Networking` `Bash` `Docker` `Kubernetes` `Helm` `AWS` `Terraform`
+`GitHub Actions` `Argo CD` `Python` `Ansible` `Prometheus` `Grafana` `Go` `Liqo`
+
+**Certifications:** CKA · CKAD · KCNA · Terraform Associate ·
+AWS Cloud Practitioner · LPIC-1 · CompTIA Network+ · MTCNA · MTCWE
 
 ---
 
