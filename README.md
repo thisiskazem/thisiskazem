@@ -37,9 +37,6 @@ on telco edge infrastructure.
 `Linux` `Networking` `Bash` `Docker` `Kubernetes` `Helm` `AWS` `Terraform`
 `GitHub Actions` `Argo CD` `Python` `Ansible` `Prometheus` `Grafana` `Go` `Liqo`
 
-**Certifications:** CKA · CKAD · KCNA · Terraform Associate ·
-AWS Cloud Practitioner · LPIC-1 · CompTIA Network+ · MTCNA · MTCWE
-
 ---
 
 ### Where to find me
